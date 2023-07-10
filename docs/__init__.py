@@ -1,0 +1,1 @@
+ABOUT = """This is a simple text editor built using Python and Tkinter. The application provides basic text editing functionalities such as creating new files, opening existing files, saving files @v0.0.1"""
