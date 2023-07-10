@@ -4,6 +4,9 @@
 
 A simple text editor application that allows you to save, read, write, and edit text files.
 
+![Screenshot from 2023-07-11 01-19-48](https://github.com/VinayPundhir/texteditor/assets/51248042/18e1fc39-4da4-4d49-9a42-0ccf75997a1f)
+
+
 ## Features
 
 - Create new text files
