@@ -1,6 +1,6 @@
 from themes import themes
 
 THEME = themes.Light
-FONT_FAMILY = "TkFixedFont"
+FONT_FAMILY = "Roman"
 FONT_WEIGHT = "normal"
 
